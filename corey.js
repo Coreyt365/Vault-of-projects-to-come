@@ -13,3 +13,7 @@
 function bewarePrint(){
     alert("so you just don't listen");
 }   
+function elsePrint(){
+    alert("hello how are you doing today");
+    
+}
